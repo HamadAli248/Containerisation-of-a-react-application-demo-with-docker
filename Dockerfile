@@ -7,7 +7,7 @@ RUN mkdir ${APP_HOME}
 WORKDIR ${APP_HOME}
 
 COPY package.json ./
-COPY pacakage.json ./
+COPY package-lock.json ./ 
 RUN npm install
 
 COPY . ./
