@@ -15,7 +15,7 @@ If you haven’t yet built your react application use the following command in y
 - capital letters
 - spaces (use – to separate name)
 
-### `npx create-react-application (you-application-name)`
+### `npx create-react-application (your-application-name)`
 
 In the project root create the files with the exact naming convention
 
