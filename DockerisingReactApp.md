@@ -120,5 +120,3 @@ Run the docker file:
 - --name specifies a name with which you can refer to your container in subsequent commands, in this case example.
 
 Visit your application in a browser at localhost:80. You should see your application up and running. At this step, you would normally do everything you could to ensure your container works the way you expected.
-
-All of the code in the blog can be found in the [GitHub repository](https://github.com/HamadAli248/Containerisation-of-a-react-application-demo-with-docker)
